@@ -6,3 +6,4 @@ public class SquareTest {
         System.out.println("The square of " + number + " is " + square);
     }
 }
+// Updated on branch v2
